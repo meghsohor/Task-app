@@ -10,12 +10,12 @@ Simple Task list app using Raw PHP and Laravel
 
 
 ## Screenshots
-
+### index.php
 ![Screenshot](screen-1.JPG)
-
+### Adding a Task
 ![Screenshot](screen-2.JPG)
-
+### Editing a Task
 ![Screenshot](screen-3.JPG)
-
+### Deleting a Task
 ![Screenshot](screen-4.JPG)
 
