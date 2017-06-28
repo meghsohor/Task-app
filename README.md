@@ -13,4 +13,9 @@ Simple Task list app using Raw PHP and Laravel
 
 ![Screenshot](screen-1.JPG)
 
+![Screenshot](screen-2.JPG)
+
+![Screenshot](screen-3.JPG)
+
+![Screenshot](screen-4.JPG)
 
